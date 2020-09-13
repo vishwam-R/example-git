@@ -7,12 +7,12 @@ int main(){
     cout<<"Enter the size of array"<<endl;
     cin>>n;
     int a[n];
-    cout<<"enter array elements"<<endl;
+    cout<<"enter "<<endl;
     for(i=0;i<n;i++)
     {
         cin>>a[i];
     }
-
+	cout<<"array output"<<endl;
     cout<<"array elements are"<<endl;
     for(i=0;i<n;i++)
     {
